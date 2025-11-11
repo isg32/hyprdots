@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# Configuration: Include all files that should trigger a restart
+CONFIG_FILES="$HOME/.config/waybar/config $HOME/.config/waybar/style.css $HOME/.config/waybar/colors-waybar.css"
+
+# Kill Waybar instances upon script exit
+trap "killall waybar" EXIT
+
+# 1. INITIAL CLEANUP & LAUNCH
+# Kill any existing Waybar instance to start fresh
+killall -q waybar
+
+# Add a small delay. This is often necessary in Hyprland to ensure the
+# Wayland session is fully initialized before launching demanding apps.
+sleep 0.5 
+
+# Start Waybar for the first time
+waybar &
+WAYBAR_PID=$!
+echo "Initial Waybar started with PID: $WAYBAR_PID"
+
+
+# 2. MONITORING LOOP
+while true; do
+    
+    # Wait for a file change event on any of the configured files
+    # -q (quiet) prevents spamming the terminal/logs
+    # -r (recursive) is generally safer
+    inotifywait -r -q -e create,modify $CONFIG_FILES
+
+    echo "Configuration file change detected. Restarting Waybar..."
+    
+    # Kill the existing Waybar process using its specific PID
+    kill $WAYBAR_PID
+    
+    # Debounce/Cooldown: Wait a short moment to handle rapid save events.
+    sleep 0.2
+
+    # Restart Waybar
+    waybar &
+    WAYBAR_PID=$! # Capture the PID of the new Waybar instance
+done

@@ -1,0 +1,70 @@
+@import "colors-waybar.css";
+
+/* 🔹 Global Waybar Settings */
+* {
+    font-family: "Fira Code", monospace;
+    font-weight: bolder;
+    font-size: 13px;
+    min-height: 0;
+    border: none;
+}
+
+/* 🔹 Waybar Background */
+window#waybar {
+    /* FIX: Set transparency on the main bar background using alpha(color, opacity) */
+    background: alpha(@background, 0.5); 
+    color: @foreground;
+    padding: 0 5px; 
+    /* The border remains opaque */
+    border-bottom: 1px solid @color1; 
+}
+
+/* 🟢 Modules (Adjusted Padding and Margin) */
+#workspaces,
+#pulseaudio,
+#battery,
+#backlight,
+#cpu,
+#memory,
+#network,
+#clock,
+#tray {
+    /* Set transparency on the module background */
+    background: alpha(@color0, 0.5); 
+    color: @foreground;
+    padding: 4px 10px; 
+    margin: 4px 3px; 
+    border-radius: 8px;
+    transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* 🎯 Workspaces (Buttons within the module) */
+#workspaces {
+    padding: 0;
+    margin: 4px 3px;
+    border-radius: 8px;
+    /* This container is transparent */
+    background: transparent; 
+}
+
+#workspaces button {
+    /* Set transparency on the button background */
+    background: alpha(@color0, 0.5); 
+    color: @foreground;
+    padding: 4px 12px;
+    margin: 0; 
+    border-radius: 8px;
+    transition: background 0.15s ease-in-out;
+    margin-right: 2px;
+}
+
+/* Focused Workspaces */
+#workspaces button.focused {
+    /* This should remain opaque for highlight */
+    background: @color10;
+    color: @foreground; 
+    font-weight: bold;
+    border: 1px solid @color10;
+    box-shadow: 0px 0px 5px @color10;
+    padding: 3px 11px; 
+}

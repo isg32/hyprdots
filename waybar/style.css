@@ -1,0 +1,82 @@
+@import "colors-waybar.css";
+
+/* 🔹 Global Waybar Settings */
+* {
+    font-family: "Fira Code", monospace; 
+    font-weight: bolder;
+    font-size: 13px;
+    min-height: 0;
+    border: none;
+}
+
+/* 🔹 Waybar Background */
+window#waybar {
+    /* Transparent bar background (50% opacity) */
+    background: @background;
+    opacity: 0.8;
+    /* FIX: Set the default text color to a fixed white */
+    color: #FFFFFF; 
+    padding: 0 5px; 
+    /* Opaque border for definition */
+}
+
+/* 🟢 Modules (All except Workspaces) */
+#pulseaudio,
+#battery,
+#backlight,
+#cpu,
+#memory,
+#network,
+#clock,
+#tray {
+    /* FIX: Set module background to transparent */
+    background: @background;
+    /* FIX: Set text color to white */
+    color: @foreground;
+    padding: 4px 10px; 
+    margin: 4px 3px; 
+    border-radius: 8px;
+    transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* 🎯 Workspaces Container */
+#workspaces {
+    padding: 0;
+    margin: 4px 3px;
+    border-radius: 8px;
+    background: transparent; 
+}
+
+/* 🖱️ Workspace Buttons (Default/Inactive) */
+#workspaces button {
+    /* FIX: Remove default background (transparent) */
+    background: transparent; 
+    /* FIX: Set text color to white */
+    color: @foreground;
+    padding: 4px 12px;
+    margin: 0; 
+    border-radius: 8px;
+    transition: background 0.15s ease-in-out;
+    margin-right: 2px;
+}
+
+/* 👆 Workspace Button Hover State */
+#workspaces button:hover {
+    /* FIX: Add the semi-transparent background ONLY on hover */
+    background: alpha(@color0, 0.5); 
+}
+
+/* 🟢 Active/Focused Workspaces */
+#workspaces button.focused {
+    /* FIX: Set a solid, opaque background color for the active window */
+    background: @color5; 
+    
+    /* FIX: Text remains white */
+    color: @color2; 
+    font-weight: bold;
+    
+    border: 1px solid @color10;
+    box-shadow: 0px 0px 5px @color10;
+    /* Adjusted padding to visually match transparent buttons */
+    padding: 3px 11px; 
+}

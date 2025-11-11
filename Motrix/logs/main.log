@@ -1,0 +1,111 @@
+[2025-10-30 10:29:57.103] [info]  [Motrix] Logger init
+[2025-10-30 10:29:57.119] [warn]  [Motrix] Logger init
+[2025-10-30 10:29:57.307] [info]  [Motrix] openedAtLogin: false
+[2025-10-30 10:29:57.615] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/isg32/.config/Motrix/logs',
+  'session-path': '/home/isg32/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixFGRKrx/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixFGRKrx/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixFGRKrx/resources/engine/aria2.conf'
+}
+[2025-10-30 10:29:59.009] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://44.30.4.4:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.188:80/announce\n' +
+    '\n' +
+    'udp://77.91.85.95:6969/announce\n' +
+    '\n' +
+    'udp://45.13.119.213:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:6969/announce\n' +
+    '\n' +
+    'udp://151.243.109.110:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://62.60.157.92:6969/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://5.45.69.185:6969/announce\n' +
+    '\n' +
+    'udp://104.248.85.59:6969/announce\n' +
+    '\n' +
+    'udp://185.189.13.108:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://yuki.bt.bontal.net:6969/announce\n' +
+    '\n' +
+    'udp://wepzone.net:6969/announce\n' +
+    '\n' +
+    'udp://ttk2.nbaonlineservice.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker.zupix.online:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.startwork.cv:1337/announce\n' +
+    '\n' +
+    'udp://tracker.srv00.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.plx.im:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n'
+]
+[2025-10-30 10:29:59.489] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-10-30 10:29:59.490] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-10-30 10:30:06.167] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: socket hang up
+[2025-10-30 10:34:35.640] [info]  [Motrix] Logger init
+[2025-10-30 10:34:35.653] [warn]  [Motrix] Logger init
+[2025-10-30 10:34:35.841] [info]  [Motrix] openedAtLogin: false
+[2025-10-30 10:34:36.164] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/isg32/.config/Motrix/logs',
+  'session-path': '/home/isg32/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixyPQi4v/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixyPQi4v/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixyPQi4v/resources/engine/aria2.conf'
+}
+[2025-10-30 10:34:38.028] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-10-30 10:34:38.029] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed

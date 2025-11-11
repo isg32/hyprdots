@@ -1,0 +1,17 @@
+#!/bin/bash
+
+WALLPAPER_DIR="/home/isg32/.config/hypr/wallpaper"
+
+if [ ! -d "$WALLPAPER_DIR" ]; then
+    echo "Error: Directory not found at $WALLPAPER_DIR"
+    exit 1
+fi
+
+RANDOM_WALLPAPER=$(find "$WALLPAPER_DIR" -type f | shuf -n 1 | xargs)
+
+if [ -z "$RANDOM_WALLPAPER" ]; then
+    echo "Error: No files found in the directory."
+    exit 1
+fi
+
+swww img "$RANDOM_WALLPAPER" --transition-type wipe --transition-fps 60 --transition-step 10

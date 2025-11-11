@@ -1,0 +1,29 @@
+[Added Associations]
+image/jpeg=loupe-3.desktop;loupe-2.desktop;loupe.desktop;
+image/png=/home/isg32/.local/share/applications/loupe-6.desktop;
+video/mp4=mpv-3.desktop;mpv-2.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+text/html=firefox.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+
+[Default Applications]
+image/jpeg=loupe-3.desktop;
+image/png=/home/isg32/.local/share/applications/loupe-6.desktop;
+video/mp4=mpv-3.desktop;
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/chrome=firefox.desktop
+text/html=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop

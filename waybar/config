@@ -1,0 +1,69 @@
+{
+    "position": "top",
+    "height": 32,
+    "modules-left": ["hyprland/workspaces","hyprland/window"],
+    "modules-right": ["pulseaudio", "cpu", "memory", "backlight","network", "battery", "clock" ,"tray"],
+    "tray": {
+        "spacing": 10
+    },
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% ⚡",
+        "format-full": "{capacity}% ⚡",
+        "format-charging": "{capacity}% ⚡",
+        "format-plugged": "{capacity}% 🔌",
+        "format-alt": "{time} {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "battery#bat2": {
+        "bat": "BAT0"
+    },
+    "clock": {
+    	"interval": 1,
+    	"timezone": "Asia/Kolkata",
+    	"format": " {:%a %d %b   %I:%M %p}",
+    	"tooltip": false,
+    },
+    "cpu": {
+        "format": "{usage}% ",
+        "tooltip": false
+    },
+    "memory": {
+        "format": "{}% "
+    },
+    "backlight": {
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% ",
+        "format-charging": "{capacity}%",
+        "format-plugged": "{capacity}%",
+        "format-alt": "{time} ",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "network": {
+        "format-wifi": " Wireless ",
+        "format-ethernet": " Wired ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": " Unwired",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}"
+    },
+    "pulseaudio": {
+        "format": "{volume}%  / {format_source}",
+        "format-bluetooth": "{volume}%    {format_source}",
+        "format-bluetooth-muted": " {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "on-click": "pulsemixer"
+    }
+}

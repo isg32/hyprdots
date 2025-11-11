@@ -1,0 +1,750 @@
+2025-10-28T14:09:29 exception: Failed to open "/home/isg32/.config/mpd/state": No such file or directory
+2025-10-28T14:09:29 exception: Failed to access /home/isg32/music: No such file or directory
+2025-10-28T14:09:58 exception: Failed to open "/home/isg32/.config/mpd/state": No such file or directory
+2025-10-28T14:11:25 exception: Failed to open "/home/isg32/.config/mpd/state": No such file or directory
+2025-10-28T14:13:34 exception: Failed to open "/home/isg32/.config/mpd/state": No such file or directory
+2025-10-28T14:49:15 exception: Failed to open "/home/isg32/.config/mpd/state": No such file or directory
+2025-10-28T14:49:30 update: added Alter Ego/Nusrat Fateh Ali Khan - Barsoon Kay Intizar Ka.flac
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Alter Ego/01 Tumhe Dil Lagi Bhool Jani Padegi.m4a
+2025-10-28T14:49:30 update: added Alter Ego/Ya Allah Ya Rehman - Nusrat Fateh Ali Khan.flac
+2025-10-28T14:49:30 update: added Alter Ego/Ustad Nusrat Fateh Ali Khan - Ye Jo Halka Halka Saroor Hai.mp3
+2025-10-28T14:49:30 update: added Alter Ego/Nusrat Fateh Ali Khan - Sikh Chaj Koee Yaar.flac
+2025-10-28T14:49:30 update: added Alter Ego/Ya Gaus Ya Meeran - Nusrat Fateh Ali Khan.flac
+2025-10-28T14:49:30 update: added Alter Ego/Yeh Na Poocho Ke Hum Kya - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video-320.mp3
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Alter Ego/21 - Nusrat Fateh Ali Khan - Banai Mujh Benawa Ki Bigri Naseeb Mera Jaga Dia.m4a
+2025-10-28T14:49:30 update: added Alter Ego/Nusrat Fateh Ali Khan - Shahbaaz Qalandar.flac
+2025-10-28T14:49:30 update: added Alter Ego/Nusrat Fateh Ali Khan & Party - Un Ke Dar Pen Pohchne to Payen.flac
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Alter Ego/20 - Nusrat Fateh Ali Khan - Aaj Sik Mitran Di.m4a
+2025-10-28T14:49:30 update: added Alter Ego/Farid Ayaz & Abu Muhammad Qawwal - Bhala Hua Mori Gagri Phooti.flac
+2025-10-28T14:49:30 update: added Alter Ego/BHULE SHAH UTH YAR MANNA LAI PART1-320.mp3
+2025-10-28T14:49:30 update: added Alter Ego/Nusrat Fateh Ali Khan - Afreen Afreen.flac
+2025-10-28T14:49:30 update: added Alter Ego/Nusrat Fateh Ali Khan - Afreen Afreen(1).flac
+2025-10-28T14:49:30 update: added Alter Ego/Adnan Sami - Bhar Do Jholi Meri (From _Bajrangi Bhaijaan_).flac
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/The Marías - ...baby one more time.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/01 chess.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/1-02 Love for Sale (Live in LA).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/40 - Lana Del Rey - Cola(Explicit).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/11 - Radio Company - Sounds of Someday.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/05 - Basement - Covet.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/1-Creepy-Nuts-Otonoke-LMG68N.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/32 - your movie soundtrack - where is my mind (piano version).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/24 - The Neighbourhood - Softcore.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/22 - Lana Del Rey - Diet Mountain Dew.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/27 - Justin Bieber - Ghost.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/43 - Adele - Skyfall.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/17 - Red Hot Chili Peppers - Californication.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/74 - Justin Timberlake - SexyBack (feat. Timbaland)(Explicit).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/26 - Justin Bieber - Sorry.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/25 - ILLIT - Magnetic.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/22 - L'Orchestra Cinematique - Homelander Theme - The Boys (Epic Version).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Flackers/65 - Lady Gaga - Die With A Smile.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/62 - STEFAN THEV - roll the credits!.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/18 - Cafuné - Tek It.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/59 - Far Caspian - The Last Remaining Light.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/09 - Sachin-Jigar - Judaai.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/14 - Pritam - Ae Dil Hai Mushkil Title Track.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/12 - A.R. Rahman - Zariya.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/08 Killing Me Softly With His Song [Explicit].m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/54 - Arcy Drive - Liquor Lips.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/55 - Lowertown - Bucktooth.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/56 - girlpuppy - Permanent State.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/39 - Shankar Ehsaan Loy - Mitwa.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/17 - Salim-Sulaiman - O Re Piya.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/09 Kya Hua Tera Vada.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/13 - Atif Aslam - Tajdar-E-Haram.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/60 - GRLwood - Keep It Average(Explicit).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added Barrier has no language/06 Jugni Kehndiya.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added you felt love one day/16 - Cigarettes After Sex - Apocalypse.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added you felt love one day/24 - Hiko - Love Story Cover.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added you felt love one day/23 - Lord Huron - Meet Me In The Woods(Explicit).m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:30 update: added you felt love one day/Haule Haule.m4a
+2025-10-28T14:49:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added you felt love one day/10 - Bob Seger & The Silver Bullet Band - Night Moves.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added you felt love one day/36 - Maroon 5 - Girls Like You(Explicit).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added you felt love one day/09 - Plain White T's - Hey There Delilah (Bonus Track).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added you felt love one day/16 - Vangelis - La petite fille de la mer (Remastered).m4a
+2025-10-28T14:49:31 update: added newks/003 - Various Interprets - Kyon.flac
+2025-10-28T14:49:31 update: added newks/002 - Atif Aslam - Hona Tha Pyar.flac
+2025-10-28T14:49:31 update: added newks/010 - Madison Beer - Make You Mine.flac
+2025-10-28T14:49:31 update: added newks/008 - Claire Rosinkranz - Backyard Boy.flac
+2025-10-28T14:49:31 update: added newks/011 - Alexander Rybak - Oah.flac
+2025-10-28T14:49:31 update: added newks/014 - Cavetown - Boys Will Be Bugs.flac
+2025-10-28T14:49:31 update: added newks/015 - Odeal - London Summers.flac
+2025-10-28T14:49:31 update: added newks/001 - Justin Bieber - DAISIES.flac
+2025-10-28T14:49:31 update: added newks/012 - Pierce The Veil - Bulletproof Love.flac
+2025-10-28T14:49:31 update: added newks/007 - Claire Rosinkranz - Backyard Boy.flac
+2025-10-28T14:49:31 update: added newks/004 - Atif Aslam - Meri Kahani.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added songs for depressive death/63 - Quarters of Change - To Let Go.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added songs for depressive death/35 - Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added songs for depressive death/51 - Ok Cowgirl - Just Friends.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added songs for depressive death/53 - The Backseat Lovers - Snowbank Blues.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added songs for depressive death/57 - Cheerbleederz - out of body.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added songs for depressive death/33 - Coldplay - The Scientist.m4a
+2025-10-28T14:49:31 update: added songs for depressive death/Jace June - Come Home.flac
+2025-10-28T14:49:31 update: added songs for depressive death/Tyler, The Creator - Like Him.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/50 - Arcy Drive - Roll My Stone (Live).m4a
+2025-10-28T14:49:31 update: added immortal art/The Strokes - Ode To The Mets.flac
+2025-10-28T14:49:31 update: added immortal art/Sam Gellaitry - Assumptions.flac
+2025-10-28T14:49:31 update: added immortal art/The Backseat Lovers - Kilby Girl.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/25 - xeno - What About Me-.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/Oh No - Welcome To Los Santos.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/Daft Punk - 05 - Instant Crush.m4a
+2025-10-28T14:49:31 update: added immortal art/Kendrick Lamar - Count Me Out.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/64 - Tame Impala - Let It Happen.m4a
+2025-10-28T14:49:31 update: added immortal art/Bad Bunny - DtMF.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/49 - Led Zeppelin - Stairway to Heaven (Remaster).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/Daft Punk - 08 - Get Lucky.m4a
+2025-10-28T14:49:31 update: added immortal art/Stereofox - saib - Whale Call [premiere].flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/32 - your movie soundtrack - where is my mind (piano version).m4a
+2025-10-28T14:49:31 update: added immortal art/The Notorious B.I.G. - Big Poppa (2005 Remaster).flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/34 - Jim Wolfe - That Old Familiar Pain.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/58 - Bull - Stuck!.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added immortal art/69 - Roop Kumar Rathod - Maula Mere Maula.m4a
+2025-10-28T14:49:31 update: added immortal art/Atif Aslam - Hona Tha Pyar.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/21 - The Weeknd - Save Your Tears (Remix).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/19 - The Weeknd - Die For You.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/20 - The Weeknd - Next.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/31 - The Weeknd - Die For You (Remix).m4a
+2025-10-28T14:49:31 update: added abel/The Weeknd - Open Hearts.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/04. The Weeknd - São Paulo.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/38 - The Weeknd - House Of Balloons - Glass Table Girls(Explicit).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/13. The Weeknd - Timeless.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/37 - Calvin Harris - Over Now(Explicit).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added abel/03 - The Weeknd - Is There Someone Else-.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/47 - Javed - Mohsin - Pal (-Jalebi-).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/18 - Salim-Sulaiman - Chhaila (From -Bhoomi 2024-).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/70 - Monty Sharma - Jab Se Tere Naina.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/02 O Meri Laila.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/30 - A.R. Rahman - Khwaja Mere Khwaja.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/45 - Benny Dayal - Lat Lag Gayee.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/13 - Sukhwinder Singh - Chaiyya Chaiyya.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/66 - Jeet Gannguli - Khamoshiyan (From -Khamoshiyan-).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/11 - Madhur Sharma - Kehna Galat Galat x Halka Halka Suroor (Medley).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/07 - Shankar Mahadevan - Kajra Re.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/01 - A.R. Rahman - Tere Bina.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/44 - Pritam - Hawayein.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/02 - Sai Abhyankkar - Katchi Sera (From -Think Indie-).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/01 Ishq Hai.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/28 - Jigardan Gadhavi - Tari Mass Mithi Madd Mithi Vaate.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/06 - Arijit Singh - Tera Chehra.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/14 - A.R. Rahman - Ghanan Ghanan.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/08 - Swanand Kirkire - Bavra Mann.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/01 Aadhey Adhoorey.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/10 - Javed-Mohsin - Kehna Galat Galat.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/68 - Jeet Gannguli - Baatein Ye Kabhi Na (From -Khamoshiyan-) (Male).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/03 Tere Naina.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/04 - Ankit Tiwari - Sanam Teri Kasam.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/07 - A.R. Rahman - Mental Manadhil.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/04 - Sai Abhyankkar - Aasa Kooda (From -Think Indie-).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/71 - Kailash Kher - Teri Deewani.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/15 - Jatin-Lalit - Chand Sifarish.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/46 - Arijit Singh - Raabta.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/67 - Jeet Gannguli - Muskurane (From -Citylights-) (Romantic).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/29 - Jigardan Gadhavi - Hal Kana Mane Dwarika Dekhad.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/05. Yo Yo Honey Singh & The Shams - Bonita.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/01. Kaaka Kadha.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added mynat/05 - Alfaaz - Hai Mera Dil.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/04 Beggin' [Explicit].m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/23 - Bloodywood - Nu Delhi.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/06 - Don Toliver - NEW DROP(Explicit).m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/48 - Muse - Supermassive Black Hole.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/07 - Linkin Park - Faint.m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/07. Beggin' [Explicit].m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added whenimonahighwaytohell/1-02 TORE UP [Explicit].m4a
+2025-10-28T14:49:31 update: added yeyeyeye/Kanyai - Cousins.flac
+2025-10-28T14:49:31 update: added yeyeyeye/Kanye West - Remote Control.flac
+2025-10-28T14:49:31 update: added yeyeyeye/Ye - WW3.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added yeyeyeye/72 - JAY Z - No Church In The Wild(Explicit).m4a
+2025-10-28T14:49:31 update: added yeyeyeye/Kanyai - Dirty magazines.flac
+2025-10-28T14:49:31 update: added yeyeyeye/Kanye West - God Is.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added yeyeyeye/41 - Kanye West - I Wonder(Explicit).m4a
+2025-10-28T14:49:31 update: added yeyeyeye/Kanyai - Beauty and the Beast (Blues Version).flac
+2025-10-28T14:49:31 update: added yeyeyeye/Ye - THE HEIL SYMPHONY.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added yeyeyeye/07 SKELETONS [Explicit].m4a
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added yeyeyeye/42 - Kanye West - Heartless.m4a
+2025-10-28T14:49:31 update: added yeyeyeye/Kanye West - Ghost Town.flac
+2025-10-28T14:49:31 update: added yeyeyeye/03 - Estelle - American Boy (Feat. Kanye West).flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 update: added yeyeyeye/73 - Kanye West - Drive Slow(Explicit).m4a
+2025-10-28T14:49:31 update: added yeyeyeye/¥$ - BACK TO ME.flac
+2025-10-28T14:49:31 update: added yeyeyeye/Kanye West - Street Lights (Album Version).flac
+2025-10-28T14:49:31 update: added yeyeyeye/Kanye West - Jesus Lord.flac
+2025-10-28T14:49:31 update: added yeyeyeye/Kanye West - Bound 2.flac
+2025-10-28T14:49:31 update: added yeyeyeye/Kanyai - Sunday Service.flac
+2025-10-28T14:49:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:49:31 ffmpeg/mjpeg: EOI missing, emulating
+2025-10-28T14:49:31 update: added yeyeyeye/01 Wheels Fall Off (feat. Kanye West) [Explicit].m4a
+2025-10-28T14:52:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:52:15 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:53:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-28T14:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-10-30T22:09:40 player: played "immortal art/Stereofox - saib - Whale Call [premiere].flac"
+2025-10-31T19:27:42 player: played "immortal art/Stereofox - saib - Whale Call [premiere].flac"
+2025-11-01T00:40:33 player: played "immortal art/Stereofox - saib - Whale Call [premiere].flac"
+2025-11-02T14:06:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:06:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:11:09 player: played "yeyeyeye/Kanye West - Ghost Town.flac"
+2025-11-02T14:15:26 player: played "yeyeyeye/Kanye West - Bound 2.flac"
+2025-11-02T14:15:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:15:43 ffmpeg/mjpeg: EOI missing, emulating
+2025-11-02T14:15:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:20:42 player: played "yeyeyeye/¥$ - BACK TO ME.flac"
+2025-11-02T14:24:58 player: played "immortal art/Atif Aslam - Hona Tha Pyar.flac"
+2025-11-02T14:25:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:33:06 player: played "immortal art/64 - Tame Impala - Let It Happen.m4a"
+2025-11-02T14:33:25 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:33:26 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:39:34 player: played "immortal art/Daft Punk - 08 - Get Lucky.m4a"
+2025-11-02T14:44:13 player: played "immortal art/The Notorious B.I.G. - Big Poppa (2005 Remaster).flac"
+2025-11-02T14:44:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:44:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:47:04 player: played "immortal art/Oh No - Welcome To Los Santos.m4a"
+2025-11-02T14:53:22 player: played "immortal art/The Strokes - Ode To The Mets.flac"
+2025-11-02T14:53:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T14:56:59 player: played "immortal art/25 - xeno - What About Me-.m4a"
+2025-11-02T15:02:01 player: played "immortal art/The Backseat Lovers - Kilby Girl.flac"
+2025-11-02T15:02:15 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T15:04:51 player: played "immortal art/32 - your movie soundtrack - where is my mind (piano version).m4a"
+2025-11-02T15:05:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T15:13:57 player: played "immortal art/49 - Led Zeppelin - Stairway to Heaven (Remaster).m4a"
+2025-11-02T15:14:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T15:17:37 player: played "immortal art/50 - Arcy Drive - Roll My Stone (Live).m4a"
+2025-11-02T16:46:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T16:52:44 player: played "immortal art/69 - Roop Kumar Rathod - Maula Mere Maula.m4a"
+2025-11-02T16:53:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T16:53:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T16:53:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T16:58:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T16:59:28 player: played "Barrier has no language/17 - Salim-Sulaiman - O Re Piya.m4a"
+2025-11-02T17:03:57 player: played "Barrier has no language/14 - Pritam - Ae Dil Hai Mushkil Title Track.m4a"
+2025-11-02T17:04:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T17:04:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T17:04:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T17:04:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T17:14:44 player: played "Barrier has no language/13 - Atif Aslam - Tajdar-E-Haram.m4a"
+2025-11-02T18:11:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:11:58 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-11-02T18:11:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:03 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-11-02T18:12:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:12:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:33:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:33:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:35:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:36:15 player: played "Barrier has no language/60 - GRLwood - Keep It Average(Explicit).m4a"
+2025-11-02T18:45:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:45:49 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-11-02T18:46:32 player: played "Barrier has no language/13 - Atif Aslam - Tajdar-E-Haram.m4a"
+2025-11-02T18:50:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:50:50 player: played "Barrier has no language/09 Kya Hua Tera Vada.m4a"
+2025-11-02T18:53:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T18:54:20 player: played "Barrier has no language/55 - Lowertown - Bucktooth.m4a"
+2025-11-02T19:00:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T19:00:43 player: played "Barrier has no language/39 - Shankar Ehsaan Loy - Mitwa.m4a"
+2025-11-02T19:02:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T19:03:23 player: played "Barrier has no language/62 - STEFAN THEV - roll the credits!.m4a"
+2025-11-02T19:05:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-02T19:05:58 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-11-02T19:06:35 player: played "Barrier has no language/18 - Cafuné - Tek It.m4a"
+2025-11-03T15:42:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T15:42:27 player: played "Barrier has no language/06 Jugni Kehndiya.m4a"
+2025-11-03T15:44:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T15:45:36 player: played "Barrier has no language/59 - Far Caspian - The Last Remaining Light.m4a"
+2025-11-03T15:48:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T15:55:25 player: played "Barrier has no language/12 - A.R. Rahman - Zariya.m4a"
+2025-11-03T16:05:03 player: played "newks/002 - Atif Aslam - Hona Tha Pyar.flac"
+2025-11-03T16:08:16 player: played "newks/004 - Atif Aslam - Meri Kahani.flac"
+2025-11-03T16:08:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:11:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:11:51 player: played "whenimonahighwaytohell/04 Beggin' [Explicit].m4a"
+2025-11-03T16:16:20 player: played "whenimonahighwaytohell/23 - Bloodywood - Nu Delhi.m4a"
+2025-11-03T16:16:25 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:20:03 player: played "whenimonahighwaytohell/07. Beggin' [Explicit].m4a"
+2025-11-03T16:21:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:22:09 player: played "yeyeyeye/Kanyai - Cousins.flac"
+2025-11-03T16:27:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:31:55 player: played "yeyeyeye/Kanye West - Ghost Town.flac"
+2025-11-03T16:32:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:40:23 player: played "immortal art/64 - Tame Impala - Let It Happen.m4a"
+2025-11-03T16:44:04 player: played "immortal art/Sam Gellaitry - Assumptions.flac"
+2025-11-03T16:44:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:46:39 player: played "immortal art/Oh No - Welcome To Los Santos.m4a"
+2025-11-03T16:52:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T16:52:30 player: played "immortal art/The Strokes - Ode To The Mets.flac"
+2025-11-03T16:55:39 player: played "immortal art/25 - xeno - What About Me-.m4a"
+2025-11-03T17:00:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:01:15 player: played "immortal art/The Backseat Lovers - Kilby Girl.flac"
+2025-11-03T17:03:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:03:51 player: played "immortal art/32 - your movie soundtrack - where is my mind (piano version).m4a"
+2025-11-03T17:11:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:11:53 player: played "immortal art/49 - Led Zeppelin - Stairway to Heaven (Remaster).m4a"
+2025-11-03T17:14:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:15:16 player: played "immortal art/50 - Arcy Drive - Roll My Stone (Live).m4a"
+2025-11-03T17:20:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:21:21 player: played "immortal art/69 - Roop Kumar Rathod - Maula Mere Maula.m4a"
+2025-11-03T17:26:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:27:40 player: played "Barrier has no language/17 - Salim-Sulaiman - O Re Piya.m4a"
+2025-11-03T17:31:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:32:09 player: played "Barrier has no language/14 - Pritam - Ae Dil Hai Mushkil Title Track.m4a"
+2025-11-03T17:35:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:36:42 player: played "Barrier has no language/09 - Sachin-Jigar - Judaai.m4a"
+2025-11-03T17:39:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T17:52:44 player: played "Barrier has no language/54 - Arcy Drive - Liquor Lips.m4a"
+2025-11-03T18:02:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:02:17 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-11-03T18:03:01 player: played "Barrier has no language/13 - Atif Aslam - Tajdar-E-Haram.m4a"
+2025-11-03T18:07:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:07:19 player: played "Barrier has no language/09 Kya Hua Tera Vada.m4a"
+2025-11-03T18:10:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:10:49 player: played "Barrier has no language/55 - Lowertown - Bucktooth.m4a"
+2025-11-03T18:16:33 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:17:12 player: played "Barrier has no language/39 - Shankar Ehsaan Loy - Mitwa.m4a"
+2025-11-03T18:19:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:19:52 player: played "Barrier has no language/62 - STEFAN THEV - roll the credits!.m4a"
+2025-11-03T18:22:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:22:27 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-11-03T18:23:04 player: played "Barrier has no language/18 - Cafuné - Tek It.m4a"
+2025-11-03T18:31:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T18:32:14 player: played "Barrier has no language/06 Jugni Kehndiya.m4a"
+2025-11-03T19:41:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T19:41:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T19:41:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T19:41:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T19:45:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T19:46:26 player: played "Barrier has no language/56 - girlpuppy - Permanent State.m4a"
+2025-11-03T19:53:39 player: played "Barrier has no language/12 - A.R. Rahman - Zariya.m4a"
+2025-11-03T20:47:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T20:50:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-03T20:51:06 player: played "yeyeyeye/42 - Kanye West - Heartless.m4a"
+2025-11-03T20:53:32 player: played "yeyeyeye/07 SKELETONS [Explicit].m4a"
+2025-11-03T20:56:42 player: played "yeyeyeye/Kanye West - Street Lights (Album Version).flac"
+2025-11-03T20:59:20 player: played "yeyeyeye/Kanyai - Dirty magazines.flac"
+2025-11-03T21:08:19 player: played "yeyeyeye/Kanye West - Jesus Lord.flac"
+2025-11-03T21:11:37 player: played "yeyeyeye/Kanye West - Remote Control.flac"
+2025-11-04T14:27:12 player: played "yeyeyeye/03 - Estelle - American Boy (Feat. Kanye West).flac"
+2025-11-04T14:28:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-05T10:45:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T11:49:37 player: played "whenimonahighwaytohell/1-02 TORE UP [Explicit].m4a"
+2025-11-06T11:50:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:49:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:53:29 player: played "whenimonahighwaytohell/06 - Don Toliver - NEW DROP(Explicit).m4a"
+2025-11-06T17:54:55 update: added Someday/Vangelis - La petite fille de la mer (Remastered).flac
+2025-11-06T17:54:55 update: added Someday/Tame Impala - Dracula.flac
+2025-11-06T17:54:55 update: added Someday/Tame Impala - End Of Summer.flac
+2025-11-06T17:54:55 update: added Someday/girlpuppy - Permanent State.flac
+2025-11-06T17:54:55 update: added Someday/Tame Impala - Loser.flac
+2025-11-06T17:54:55 update: added /Ye - PREACHER MAN.flac
+2025-11-06T17:54:55 update: added /Vishnu Sahasranamam Fast 12 Min  वषण सहसरनम फ़सट  Bhakti Song  Vishnu Sahasranamam.mp3
+2025-11-06T17:54:55 update: added /Galdive - Night Charade.flac
+2025-11-06T17:54:55 update: added /Pierce The Veil - Bulletproof Love.flac
+2025-11-06T17:54:55 update: added /Frank Sinatra - Fly Me To The Moon (In Other Words).flac
+2025-11-06T17:54:55 update: added /nil00 - Beautiful Fish (Just Remember You're Beautiful, And Two Hours Comes Pretty Easily, I Wanna Spend It With You).flac
+2025-11-06T17:54:55 update: added /KANYE UNRELEASED_ Deja Vu.mp3
+2025-11-06T17:54:55 update: added /Narasimha Kavacha Stotram - POWERFUL PRAYER FOR PROTECTION.mp3
+2025-11-06T17:54:55 update: added /Aditya Rikhari - Sahiba.flac
+2025-11-06T17:54:55 update: added nessa/Alan Vuong - DEEP IN YOUR SOUL.flac
+2025-11-06T17:54:55 update: added nessa/Kanye West - Touch The Sky (Radio Edit).flac
+2025-11-06T17:54:55 update: added nessa/Kanye West - Violent Crimes.flac
+2025-11-06T17:54:55 update: added nessa/WESTSIDE BOOGIE - CAN'T GET OVER YOU.flac
+2025-11-06T17:54:55 update: added nessa/Two Door Cinema Club - What You Know.flac
+2025-11-06T17:54:55 update: added nessa/Bb Trickz - Super.flac
+2025-11-06T17:54:55 update: added nessa/P-Lo - Newly.flac
+2025-11-06T17:54:55 update: added nessa/Shelly - Cross Your Mind.flac
+2025-11-06T17:54:55 update: added nessa/Lil Tecca - Dark Thoughts.flac
+2025-11-06T17:54:55 update: added nessa/Tyler, The Creator - Stop Playing With Me.flac
+2025-11-06T17:54:55 update: added nessa/Tyler, The Creator - Ring Ring Ring.flac
+2025-11-06T17:54:55 update: added nessa/Kanye West - Runaway (Album Version (Explicit)).flac
+2025-11-06T17:54:55 update: added nessa/Malcolm Todd - Zip Up My Fly.flac
+2025-11-06T17:54:55 update: added nessa/Tyler, The Creator - Sugar On My Tongue.flac
+2025-11-06T17:54:55 update: added nessa/¥$ - CARNIVAL (feat. Rich The Kid, Playboi Carti).flac
+2025-11-06T17:54:55 update: added nessa/Olivia Dean - Nice To Each Other.flac
+2025-11-06T17:54:55 update: added nessa/Galdive - Stay (feat. RINI).flac
+2025-11-06T17:54:55 update: added nessa/Jenevieve - Partycrasher.flac
+2025-11-06T17:54:55 update: added /Kaalbhairav Ashtakam.mp3
+2025-11-06T17:54:55 update: added /Atif Aslam - Meri Kahani.flac
+2025-11-06T17:54:55 update: added /Kanye West - Devil In A New Dress.flac
+2025-11-06T17:54:55 update: added /Kendrick Lamar - Sing About Me, I'm Dying Of Thirst (Explicit Version).flac
+2025-11-06T17:54:55 update: added /Cavetown - Boys Will Be Bugs.flac
+2025-11-06T17:54:55 update: added /Wesley Miles - Honey.flac
+2025-11-06T17:54:55 update: added /Galdive - Teach Me How To Love.flac
+2025-11-06T17:54:55 update: added /Claire Rosinkranz - Backyard Boy.flac
+2025-11-06T17:54:55 update: added /Rebecca Black - Sugar Water Cyanide.flac
+2025-11-06T17:54:55 update: added /beabadoobee - the perfect pair.flac
+2025-11-06T17:54:55 update: added /Atif Aslam - Be Intehaan.flac
+2025-11-06T17:54:55 update: added /Atif Aslam - Chod Gaye.flac
+2025-11-06T17:54:55 update: added /Gajendra Verma - Mann Mera.flac
+2025-11-06T17:54:55 update: added /Tame Impala - New Person, Same Old Mistakes.flac
+2025-11-06T17:54:55 update: added /Tomcbumpz - we don't know a thing.flac
+2025-11-06T17:54:55 update: added /Los Retros - Someone To Spend Time With.flac
+2025-11-06T17:54:55 update: added /Kanye West - CIRCLES.mp3
+2025-11-06T17:54:55 update: added Nekogram/Hey There Delilah - Plain White T's.flac
+2025-11-06T17:54:55 update: added Nekogram/Nusrat Fateh Ali Khan - Barsoon Kay Intizar Ka.flac
+2025-11-06T17:54:55 update: added Nekogram/RADWIMPS - Hyperventilation.flac
+2025-11-06T17:54:55 update: added Nekogram/Yeh_Na_Poocho_Ke_Hum_Kya_Ustad_Nusrat_Fateh_Ali_Khan_OSA_Official.mp3
+2025-11-06T17:54:55 update: added Nekogram/Ya Allah Ya Rehman - Nusrat Fateh Ali Khan.flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/72 - JAY Z - No Church In The Wild(Explicit).m4a
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/21_Nusrat_Fateh_Ali_Khan_Banai_Mujh_Benawa_Ki_Bigri_Naseeb_Mera.m4a
+2025-11-06T17:54:55 update: added Nekogram/Ustad Nusrat Fateh Ali Khan - Ye Jo Halka Halka Saroor Hai.mp3
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/66 - Jeet Gannguli - Khamoshiyan (From -Khamoshiyan-).m4a
+2025-11-06T17:54:55 update: added Nekogram/Nusrat Fateh Ali Khan - Sikh Chaj Koee Yaar.flac
+2025-11-06T17:54:55 update: added Nekogram/The Backseat Lovers - Kilby Girl.flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/67_Jeet_Gannguli_Muskurane_From_Citylights_Romantic.m4a
+2025-11-06T17:54:55 update: added Nekogram/Nusrat Fateh Ali Khan - Shahbaaz Qalandar.flac
+2025-11-06T17:54:55 update: added Nekogram/Kanye West - God Is.flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/64 - Tame Impala - Let It Happen.m4a
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/44 - Pritam - Hawayein.m4a
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/10 - Bob Seger & The Silver Bullet Band - Night Moves.m4a
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/07. Dil To Bachcha Hai.m4a
+2025-11-06T17:54:55 update: added Nekogram/The Notorious B.I.G. - Big Poppa (2005 Remaster).flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/42 - Kanye West - Heartless.m4a
+2025-11-06T17:54:55 update: added Nekogram/Kanye West - Ghost Town.flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/73 - Kanye West - Drive Slow(Explicit).m4a
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/13. The Weeknd - Timeless.m4a
+2025-11-06T17:54:55 update: added Nekogram/¥$ - BACK TO ME.flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/37 - Calvin Harris - Over Now(Explicit).m4a
+2025-11-06T17:54:55 update: added Nekogram/Nusrat_Fateh_Ali_Khan_&_Party_Un_Ke_Dar_Pen_Pohchne_to_Payen.flac
+2025-11-06T17:54:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:54:55 update: added Nekogram/29 - Jigardan Gadhavi - Hal Kana Mane Dwarika Dekhad.m4a
+2025-11-06T17:54:55 update: added Nekogram/Kanye West - Jesus Lord.flac
+2025-11-06T17:54:55 update: added Nekogram/Nusrat Fateh Ali Khan - Afreen Afreen(1).flac
+2025-11-06T17:54:55 update: added Nekogram/Kanye West - Bound 2.flac
+2025-11-06T17:54:55 update: added /Arijit Singh - Sajni.flac
+2025-11-06T17:54:55 update: added /Alexander Rybak - Oah.flac
+2025-11-06T17:54:55 update: added /Frankie Valli - Can't Take My Eyes off You.flac
+2025-11-06T17:54:55 update: added /Kanye West - On Sight (Album Version (Explicit)).flac
+2025-11-06T17:54:55 update: added /Public - Make You Mine.flac
+2025-11-06T17:54:55 update: added /Atif Aslam - Hona Tha Pyar.flac
+2025-11-06T17:54:55 update: added /Kanye West - About an Angel.mp3
+2025-11-06T17:54:55 update: removing mynat/02 O Meri Laila.m4a
+2025-11-06T17:54:55 update: removing mynat/11 - Madhur Sharma - Kehna Galat Galat x Halka Halka Suroor (Medley).m4a
+2025-11-06T17:54:55 update: removing mynat/10 - Javed-Mohsin - Kehna Galat Galat.m4a
+2025-11-06T17:54:55 update: removing mynat/02 - Sai Abhyankkar - Katchi Sera (From -Think Indie-).m4a
+2025-11-06T17:54:55 update: removing mynat/71 - Kailash Kher - Teri Deewani.m4a
+2025-11-06T17:54:55 update: removing mynat/01. Kaaka Kadha.m4a
+2025-11-06T17:54:55 update: removing mynat/30 - A.R. Rahman - Khwaja Mere Khwaja.m4a
+2025-11-06T17:54:55 update: removing mynat/44 - Pritam - Hawayein.m4a
+2025-11-06T17:54:55 update: removing mynat/68 - Jeet Gannguli - Baatein Ye Kabhi Na (From -Khamoshiyan-) (Male).m4a
+2025-11-06T17:54:55 update: removing mynat/08 - Swanand Kirkire - Bavra Mann.m4a
+2025-11-06T17:54:55 update: removing mynat/01 - A.R. Rahman - Tere Bina.m4a
+2025-11-06T17:54:55 update: removing mynat/05. Yo Yo Honey Singh & The Shams - Bonita.m4a
+2025-11-06T17:54:55 update: removing mynat/15 - Jatin-Lalit - Chand Sifarish.m4a
+2025-11-06T17:54:55 update: removing mynat/13 - Sukhwinder Singh - Chaiyya Chaiyya.m4a
+2025-11-06T17:54:55 update: removing mynat/46 - Arijit Singh - Raabta.m4a
+2025-11-06T17:54:55 update: removing mynat/18 - Salim-Sulaiman - Chhaila (From -Bhoomi 2024-).m4a
+2025-11-06T17:54:55 update: removing mynat/07 - Shankar Mahadevan - Kajra Re.m4a
+2025-11-06T17:54:55 update: removing mynat/67 - Jeet Gannguli - Muskurane (From -Citylights-) (Romantic).m4a
+2025-11-06T17:54:55 update: removing mynat/66 - Jeet Gannguli - Khamoshiyan (From -Khamoshiyan-).m4a
+2025-11-06T17:54:55 update: removing mynat/47 - Javed - Mohsin - Pal (-Jalebi-).m4a
+2025-11-06T17:54:55 update: removing mynat/05 - Alfaaz - Hai Mera Dil.m4a
+2025-11-06T17:54:55 update: removing mynat/04 - Sai Abhyankkar - Aasa Kooda (From -Think Indie-).m4a
+2025-11-06T17:54:55 update: removing mynat/01 Aadhey Adhoorey.m4a
+2025-11-06T17:54:55 update: removing immortal art/32 - your movie soundtrack - where is my mind (piano version).m4a
+2025-11-06T17:54:55 update: removing immortal art/The Backseat Lovers - Kilby Girl.flac
+2025-11-06T17:54:55 update: removing immortal art/25 - xeno - What About Me-.m4a
+2025-11-06T17:54:55 update: removing immortal art/The Strokes - Ode To The Mets.flac
+2025-11-06T17:54:55 update: removing immortal art/Oh No - Welcome To Los Santos.m4a
+2025-11-06T17:54:55 update: removing immortal art/58 - Bull - Stuck!.m4a
+2025-11-06T17:54:55 update: removing immortal art/The Notorious B.I.G. - Big Poppa (2005 Remaster).flac
+2025-11-06T17:54:55 update: removing immortal art/Daft Punk - 08 - Get Lucky.m4a
+2025-11-06T17:54:55 update: removing immortal art/Daft Punk - 05 - Instant Crush.m4a
+2025-11-06T17:54:55 update: removing immortal art/Kendrick Lamar - Count Me Out.flac
+2025-11-06T17:54:55 update: removing immortal art/49 - Led Zeppelin - Stairway to Heaven (Remaster).m4a
+2025-11-06T17:54:55 update: removing immortal art/Sam Gellaitry - Assumptions.flac
+2025-11-06T17:54:55 update: removing immortal art/Bad Bunny - DtMF.flac
+2025-11-06T17:54:55 update: removing immortal art/64 - Tame Impala - Let It Happen.m4a
+2025-11-06T17:54:55 update: removing immortal art/34 - Jim Wolfe - That Old Familiar Pain.m4a
+2025-11-06T17:54:55 update: removing immortal art/Atif Aslam - Hona Tha Pyar.flac
+2025-11-06T17:54:55 update: removing immortal art/50 - Arcy Drive - Roll My Stone (Live).m4a
+2025-11-06T17:54:55 update: removing immortal art/69 - Roop Kumar Rathod - Maula Mere Maula.m4a
+2025-11-06T17:54:55 update: removing immortal art/Stereofox - saib - Whale Call [premiere].flac
+2025-11-06T17:54:55 update: removing Flackers/32 - your movie soundtrack - where is my mind (piano version).m4a
+2025-11-06T17:54:55 update: removing Flackers/11 - Radio Company - Sounds of Someday.m4a
+2025-11-06T17:54:55 update: removing Flackers/25 - ILLIT - Magnetic.m4a
+2025-11-06T17:54:55 update: removing Flackers/43 - Adele - Skyfall.m4a
+2025-11-06T17:54:55 update: removing Flackers/26 - Justin Bieber - Sorry.m4a
+2025-11-06T17:54:55 update: removing Flackers/40 - Lana Del Rey - Cola(Explicit).m4a
+2025-11-06T17:54:55 update: removing Flackers/1-Creepy-Nuts-Otonoke-LMG68N.m4a
+2025-11-06T17:54:55 update: removing Flackers/27 - Justin Bieber - Ghost.m4a
+2025-11-06T17:54:55 update: removing Flackers/22 - L'Orchestra Cinematique - Homelander Theme - The Boys (Epic Version).m4a
+2025-11-06T17:54:55 update: removing Flackers/24 - The Neighbourhood - Softcore.m4a
+2025-11-06T17:54:55 update: removing Flackers/74 - Justin Timberlake - SexyBack (feat. Timbaland)(Explicit).m4a
+2025-11-06T17:54:55 update: removing Flackers/65 - Lady Gaga - Die With A Smile.m4a
+2025-11-06T17:54:55 update: removing Flackers/05 - Basement - Covet.m4a
+2025-11-06T17:54:55 update: removing Flackers/1-02 Love for Sale (Live in LA).m4a
+2025-11-06T17:54:55 update: removing Flackers/01 chess.m4a
+2025-11-06T17:54:55 update: removing Flackers/17 - Red Hot Chili Peppers - Californication.m4a
+2025-11-06T17:54:55 update: removing Flackers/22 - Lana Del Rey - Diet Mountain Dew.m4a
+2025-11-06T17:54:55 update: removing Flackers/The Marías - ...baby one more time.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/56 - girlpuppy - Permanent State.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/08 Killing Me Softly With His Song [Explicit].m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/59 - Far Caspian - The Last Remaining Light.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/06 Jugni Kehndiya.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/18 - Cafuné - Tek It.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/62 - STEFAN THEV - roll the credits!.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/39 - Shankar Ehsaan Loy - Mitwa.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/55 - Lowertown - Bucktooth.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/09 Kya Hua Tera Vada.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/13 - Atif Aslam - Tajdar-E-Haram.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/12 - A.R. Rahman - Zariya.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/60 - GRLwood - Keep It Average(Explicit).m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/54 - Arcy Drive - Liquor Lips.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/09 - Sachin-Jigar - Judaai.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/14 - Pritam - Ae Dil Hai Mushkil Title Track.m4a
+2025-11-06T17:54:55 update: removing Barrier has no language/17 - Salim-Sulaiman - O Re Piya.m4a
+2025-11-06T17:54:55 update: removing Alter Ego/01 Tumhe Dil Lagi Bhool Jani Padegi.m4a
+2025-11-06T17:54:55 update: removing Alter Ego/Nusrat Fateh Ali Khan - Sikh Chaj Koee Yaar.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Farid Ayaz & Abu Muhammad Qawwal - Bhala Hua Mori Gagri Phooti.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Nusrat Fateh Ali Khan - Shahbaaz Qalandar.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Nusrat Fateh Ali Khan - Afreen Afreen.flac
+2025-11-06T17:54:55 update: removing Alter Ego/21 - Nusrat Fateh Ali Khan - Banai Mujh Benawa Ki Bigri Naseeb Mera Jaga Dia.m4a
+2025-11-06T17:54:55 update: removing Alter Ego/Nusrat Fateh Ali Khan & Party - Un Ke Dar Pen Pohchne to Payen.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Adnan Sami - Bhar Do Jholi Meri (From _Bajrangi Bhaijaan_).flac
+2025-11-06T17:54:55 update: removing Alter Ego/20 - Nusrat Fateh Ali Khan - Aaj Sik Mitran Di.m4a
+2025-11-06T17:54:55 update: removing Alter Ego/Ya Gaus Ya Meeran - Nusrat Fateh Ali Khan.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Ya Allah Ya Rehman - Nusrat Fateh Ali Khan.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Nusrat Fateh Ali Khan - Barsoon Kay Intizar Ka.flac
+2025-11-06T17:54:55 update: removing Alter Ego/Ustad Nusrat Fateh Ali Khan - Ye Jo Halka Halka Saroor Hai.mp3
+2025-11-06T17:54:55 update: removing Alter Ego/Nusrat Fateh Ali Khan - Afreen Afreen(1).flac
+2025-11-06T17:54:55 update: removing Alter Ego/Yeh Na Poocho Ke Hum Kya - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video-320.mp3
+2025-11-06T17:54:55 update: removing Alter Ego/BHULE SHAH UTH YAR MANNA LAI PART1-320.mp3
+2025-11-06T17:54:55 update: removing abel/20 - The Weeknd - Next.m4a
+2025-11-06T17:54:55 update: removing abel/19 - The Weeknd - Die For You.m4a
+2025-11-06T17:54:55 update: removing abel/21 - The Weeknd - Save Your Tears (Remix).m4a
+2025-11-06T17:54:55 update: removing abel/37 - Calvin Harris - Over Now(Explicit).m4a
+2025-11-06T17:54:55 update: removing abel/13. The Weeknd - Timeless.m4a
+2025-11-06T17:54:55 update: removing abel/04. The Weeknd - São Paulo.m4a
+2025-11-06T17:54:55 update: removing abel/The Weeknd - Open Hearts.flac
+2025-11-06T17:54:55 update: removing abel/38 - The Weeknd - House Of Balloons - Glass Table Girls(Explicit).m4a
+2025-11-06T17:54:55 update: removing abel/31 - The Weeknd - Die For You (Remix).m4a
+2025-11-06T17:54:55 update: removing abel/03 - The Weeknd - Is There Someone Else-.m4a
+2025-11-06T17:54:55 update: removing you felt love one day/23 - Lord Huron - Meet Me In The Woods(Explicit).m4a
+2025-11-06T17:54:55 update: removing you felt love one day/36 - Maroon 5 - Girls Like You(Explicit).m4a
+2025-11-06T17:54:55 update: removing you felt love one day/Haule Haule.m4a
+2025-11-06T17:54:55 update: removing you felt love one day/10 - Bob Seger & The Silver Bullet Band - Night Moves.m4a
+2025-11-06T17:54:55 update: removing you felt love one day/24 - Hiko - Love Story Cover.m4a
+2025-11-06T17:54:55 update: removing you felt love one day/16 - Vangelis - La petite fille de la mer (Remastered).m4a
+2025-11-06T17:54:55 update: removing you felt love one day/09 - Plain White T's - Hey There Delilah (Bonus Track).m4a
+2025-11-06T17:54:55 update: removing you felt love one day/16 - Cigarettes After Sex - Apocalypse.m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanye West - Bound 2.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanye West - Ghost Town.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Ye - WW3.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/01 Wheels Fall Off (feat. Kanye West) [Explicit].m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/72 - JAY Z - No Church In The Wild(Explicit).m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/¥$ - BACK TO ME.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Ye - THE HEIL SYMPHONY.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanyai - Sunday Service.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/03 - Estelle - American Boy (Feat. Kanye West).flac
+2025-11-06T17:54:55 update: removing yeyeyeye/73 - Kanye West - Drive Slow(Explicit).m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanye West - God Is.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/41 - Kanye West - I Wonder(Explicit).m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanye West - Remote Control.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanye West - Jesus Lord.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanyai - Dirty magazines.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanyai - Cousins.flac
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanyai - Beauty and the Beast (Blues Version).flac
+2025-11-06T17:54:55 update: removing yeyeyeye/07 SKELETONS [Explicit].m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/42 - Kanye West - Heartless.m4a
+2025-11-06T17:54:55 update: removing yeyeyeye/Kanye West - Street Lights (Album Version).flac
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/23 - Bloodywood - Nu Delhi.m4a
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/07 - Linkin Park - Faint.m4a
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/1-02 TORE UP [Explicit].m4a
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/06 - Don Toliver - NEW DROP(Explicit).m4a
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/07. Beggin' [Explicit].m4a
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/04 Beggin' [Explicit].m4a
+2025-11-06T17:54:55 update: removing whenimonahighwaytohell/48 - Muse - Supermassive Black Hole.m4a
+2025-11-06T17:54:55 update: removing songs for depressive death/53 - The Backseat Lovers - Snowbank Blues.m4a
+2025-11-06T17:54:55 update: removing songs for depressive death/35 - Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez).m4a
+2025-11-06T17:54:55 update: removing songs for depressive death/51 - Ok Cowgirl - Just Friends.m4a
+2025-11-06T17:54:55 update: removing songs for depressive death/63 - Quarters of Change - To Let Go.m4a
+2025-11-06T17:54:55 update: removing songs for depressive death/57 - Cheerbleederz - out of body.m4a
+2025-11-06T17:54:55 update: removing songs for depressive death/Jace June - Come Home.flac
+2025-11-06T17:54:55 update: removing songs for depressive death/Tyler, The Creator - Like Him.flac
+2025-11-06T17:54:55 update: removing songs for depressive death/33 - Coldplay - The Scientist.m4a
+2025-11-06T17:54:55 update: removing newks/001 - Justin Bieber - DAISIES.flac
+2025-11-06T17:54:55 update: removing newks/012 - Pierce The Veil - Bulletproof Love.flac
+2025-11-06T17:54:55 update: removing newks/011 - Alexander Rybak - Oah.flac
+2025-11-06T17:54:55 update: removing newks/004 - Atif Aslam - Meri Kahani.flac
+2025-11-06T17:54:55 update: removing newks/010 - Madison Beer - Make You Mine.flac
+2025-11-06T17:54:55 update: removing newks/015 - Odeal - London Summers.flac
+2025-11-06T17:54:55 update: removing newks/002 - Atif Aslam - Hona Tha Pyar.flac
+2025-11-06T17:54:55 update: removing newks/008 - Claire Rosinkranz - Backyard Boy.flac
+2025-11-06T17:54:55 update: removing newks/007 - Claire Rosinkranz - Backyard Boy.flac
+2025-11-06T17:54:55 update: removing newks/003 - Various Interprets - Kyon.flac
+2025-11-06T17:54:55 update: removing newks/014 - Cavetown - Boys Will Be Bugs.flac
+2025-11-06T17:54:55 update: removing mynat/14 - A.R. Rahman - Ghanan Ghanan.m4a
+2025-11-06T17:54:55 update: removing mynat/06 - Arijit Singh - Tera Chehra.m4a
+2025-11-06T17:54:55 update: removing mynat/04 - Ankit Tiwari - Sanam Teri Kasam.m4a
+2025-11-06T17:54:55 update: removing mynat/70 - Monty Sharma - Jab Se Tere Naina.m4a
+2025-11-06T17:54:55 update: removing mynat/28 - Jigardan Gadhavi - Tari Mass Mithi Madd Mithi Vaate.m4a
+2025-11-06T17:54:55 update: removing mynat/29 - Jigardan Gadhavi - Hal Kana Mane Dwarika Dekhad.m4a
+2025-11-06T17:54:55 update: removing mynat/45 - Benny Dayal - Lat Lag Gayee.m4a
+2025-11-06T17:54:55 update: removing mynat/07 - A.R. Rahman - Mental Manadhil.m4a
+2025-11-06T17:54:55 update: removing mynat/03 Tere Naina.m4a
+2025-11-06T17:54:55 update: removing mynat/01 Ishq Hai.m4a
+2025-11-06T17:55:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:55:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T17:57:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T18:02:05 player: played "Nekogram/44 - Pritam - Hawayein.m4a"
+2025-11-06T18:04:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T18:11:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T18:11:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-06T18:21:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-11T13:45:35 exception: Failed to decode "/home/isg32/music/newks/014 - Cavetown - Boys Will Be Bugs.flac"; Failed to open "/home/isg32/music/newks/014 - Cavetown - Boys Will Be Bugs.flac": No such file or directory
+2025-11-11T13:45:35 player: played "newks/014 - Cavetown - Boys Will Be Bugs.flac"
+2025-11-11T13:45:35 exception: Failed to decode "/home/isg32/music/newks/014 - Cavetown - Boys Will Be Bugs.flac"; Failed to open "/home/isg32/music/newks/014 - Cavetown - Boys Will Be Bugs.flac": No such file or directory
+2025-11-11T13:45:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-11T13:45:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-11T13:45:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-11T13:49:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2025-11-11T13:50:30 player: played "Nekogram/73 - Kanye West - Drive Slow(Explicit).m4a"
