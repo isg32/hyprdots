@@ -1,82 +1,66 @@
 @import "colors-waybar.css";
 
-/* 🔹 Global Waybar Settings */
 * {
-    font-family: "Fira Code", monospace; 
-    font-weight: bolder;
+    font-family: "JetBrainsMono Nerd Font", "Fira Code", monospace;
     font-size: 13px;
-    min-height: 0;
+    font-weight: bold;
+}
+
+window#waybar {
+    background: transparent; /* Entire bar is transparent */
+}
+
+/* Base style for all modules */
+#workspaces,
+#window,
+#pulseaudio,
+#cpu,
+#memory,
+#backlight,
+#network,
+#battery,
+#clock,
+#tray {
+    background: rgba(15, 15, 15, 0.75); /* Dark translucent glass */
+    color: @foreground;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 2px 12px;
+    margin: 6px 4px;
+}
+
+/* Workspace Specifics */
+#workspaces {
+    background: rgba(15, 15, 15, 0.75);
+    padding: 0px 5px;
+}
+
+#workspaces button {
+    color: rgba(255, 255, 255, 0.4);
+    padding: 0 6px;
+}
+
+#workspaces button.active {
+    color: @color5; /* Uses your wallpaper accent */
+}
+
+#workspaces button.urgent {
+    color: #eb4d4b;
+}
+
+/* Hide window title if empty to keep it minimal */
+#window {
+    background: transparent;
     border: none;
 }
 
-/* 🔹 Waybar Background */
-window#waybar {
-    /* Transparent bar background (50% opacity) */
-    background: @background;
-    opacity: 0.8;
-    /* FIX: Set the default text color to a fixed white */
-    color: #FFFFFF; 
-    padding: 0 5px; 
-    /* Opaque border for definition */
+/* Highlight the clock */
+#clock {
+    background: @color5; /* The primary accent from your wallpaper */
+    color: #000000;
 }
 
-/* 🟢 Modules (All except Workspaces) */
-#pulseaudio,
-#battery,
-#backlight,
-#cpu,
-#memory,
-#network,
-#clock,
+/* Small adjustments for the tray */
 #tray {
-    /* FIX: Set module background to transparent */
-    background: @background;
-    /* FIX: Set text color to white */
-    color: @foreground;
-    padding: 4px 10px; 
-    margin: 4px 3px; 
-    border-radius: 8px;
-    transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-
-/* 🎯 Workspaces Container */
-#workspaces {
-    padding: 0;
-    margin: 4px 3px;
-    border-radius: 8px;
-    background: transparent; 
-}
-
-/* 🖱️ Workspace Buttons (Default/Inactive) */
-#workspaces button {
-    /* FIX: Remove default background (transparent) */
-    background: transparent; 
-    /* FIX: Set text color to white */
-    color: @foreground;
-    padding: 4px 12px;
-    margin: 0; 
-    border-radius: 8px;
-    transition: background 0.15s ease-in-out;
-    margin-right: 2px;
-}
-
-/* 👆 Workspace Button Hover State */
-#workspaces button:hover {
-    /* FIX: Add the semi-transparent background ONLY on hover */
-    background: alpha(@color0, 0.5); 
-}
-
-/* 🟢 Active/Focused Workspaces */
-#workspaces button.focused {
-    /* FIX: Set a solid, opaque background color for the active window */
-    background: @color5; 
-    
-    /* FIX: Text remains white */
-    color: @color2; 
-    font-weight: bold;
-    
-    border: 1px solid @color10;
-    box-shadow: 0px 0px 5px @color10;
-    /* Adjusted padding to visually match transparent buttons */
-    padding: 3px 11px; 
+    margin-right: 10px;
 }

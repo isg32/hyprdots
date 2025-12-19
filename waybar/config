@@ -1,69 +1,44 @@
 {
     "position": "top",
-    "height": 32,
-    "modules-left": ["hyprland/workspaces","hyprland/window"],
-    "modules-right": ["pulseaudio", "cpu", "memory", "backlight","network", "battery", "clock" ,"tray"],
-    "tray": {
-        "spacing": 10
+    "margin-top": 5,
+    "margin-left": 10,
+    "margin-right": 10,
+    "height": 34,
+    "modules-left": ["hyprland/workspaces", "hyprland/window"],
+    "modules-center": ["clock"],
+    "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "tray"],
+
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "default": "",
+            "active": "",
+            "urgent": ""
+        }
     },
-    "battery": {
-        "states": {
-            "warning": 30,
-            "critical": 15
-        },
-        "format": "{capacity}% ⚡",
-        "format-full": "{capacity}% ⚡",
-        "format-charging": "{capacity}% ⚡",
-        "format-plugged": "{capacity}% 🔌",
-        "format-alt": "{time} {icon}",
-        "format-icons": ["", "", "", "", ""]
-    },
-    "battery#bat2": {
-        "bat": "BAT0"
-    },
+
     "clock": {
-    	"interval": 1,
-    	"timezone": "Asia/Kolkata",
-    	"format": " {:%a %d %b   %I:%M %p}",
-    	"tooltip": false,
-    },
-    "cpu": {
-        "format": "{usage}% ",
+        "format": " {:%H:%M}",
+        "format-alt": " {:%A, %B %d}",
         "tooltip": false
     },
-    "memory": {
-        "format": "{}% "
-    },
-    "backlight": {
-        "format": "{percent}% {icon}",
-        "format-icons": ["", "", "", "", "", "", "", "", ""]
-    },
-    "battery": {
-        "states": {
-            "good": 95,
-            "warning": 30,
-            "critical": 15
-        },
-        "format": "{capacity}% ",
-        "format-charging": "{capacity}%",
-        "format-plugged": "{capacity}%",
-        "format-alt": "{time} ",
-        "format-icons": ["", "", "", "", ""]
-    },
-    "network": {
-        "format-wifi": " Wireless ",
-        "format-ethernet": " Wired ",
-        "format-linked": "{ifname} (No IP) ",
-        "format-disconnected": " Unwired",
-        "format-alt": "{ifname}: {ipaddr}/{cidr}"
-    },
+
     "pulseaudio": {
-        "format": "{volume}%  / {format_source}",
-        "format-bluetooth": "{volume}%    {format_source}",
-        "format-bluetooth-muted": " {format_source}",
-        "format-muted": " {format_source}",
-        "format-source": "{volume}% ",
-        "format-source-muted": "",
-        "on-click": "pulsemixer"
+        "format": "{icon} {volume}%",
+        "format-muted": "󰝟",
+        "format-icons": { "default": ["󰕿", "󰖀", "󰕾"] },
+        "on-click": "pavucontrol"
+    },
+
+    "battery": {
+        "format": "{icon} {capacity}%",
+        "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
+    },
+
+    "network": {
+        "format-wifi": "󰖩",
+        "format-disconnected": "󰖪",
+        "tooltip-format": "{essid}"
     }
 }
