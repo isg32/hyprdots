@@ -6,7 +6,7 @@
     "height": 34,
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": ["clock"],
-    "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "tray"],
+    "modules-right": ["pulseaudio", "backlight", "network", "cpu", "memory", "battery", "tray"],
 
     "hyprland/workspaces": {
         "format": "{icon}",
@@ -23,7 +23,10 @@
         "format-alt": " {:%A, %B %d}",
         "tooltip": false
     },
-
+    "backlight": {
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
     "pulseaudio": {
         "format": "{icon} {volume}%",
         "format-muted": "󰝟",
@@ -42,3 +45,4 @@
         "tooltip-format": "{essid}"
     }
 }
+
