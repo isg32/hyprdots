@@ -24,19 +24,19 @@ window#waybar {
     background: rgba(15, 15, 15, 0.75); /* Dark translucent glass */
     color: @foreground;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 16px;
-    padding: 2px 12px;
-    margin: 6px 4px;
+    border-radius: 10px;
+    padding: 4px 12px;
+    margin: 8px 8px;
 }
 
 /* Workspace Specifics */
 #workspaces {
-    background: rgba(15, 15, 15, 0.75);
-    padding: 0px 5px;
+    background: rgba(15, 15, 15, 0.75); 
+    padding: 2px 5px;
 }
 
 #workspaces button {
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.9);
     padding: 0 6px;
 }
 
@@ -56,11 +56,12 @@ window#waybar {
 
 /* Highlight the clock */
 #clock {
-    background: @color5; /* The primary accent from your wallpaper */
-    color: #000000;
-}
+    background: @background; /* The primary accent from your wallpaper */
+    color: @color5;
+}  
 
 /* Small adjustments for the tray */
 #tray {
     margin-right: 10px;
 }
+

@@ -1,9 +1,11 @@
 {
-    "position": "top",
-    "margin-top": 5,
-    "margin-left": 10,
-    "margin-right": 10,
+    "position": "bottom",
+    "margin-top": 0,
+    "margin-left": 0,
+    "margin-right": 0,
+    "border-radius": 0,
     "height": 34,
+    "reload_style_on_change": true,
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": ["clock"],
     "modules-right": ["pulseaudio", "backlight", "network", "cpu", "memory", "battery", "tray"],
@@ -45,4 +47,3 @@
         "tooltip-format": "{essid}"
     }
 }
-
