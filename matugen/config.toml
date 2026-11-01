@@ -1,0 +1,26 @@
+[config]
+reload_apps = false
+
+[templates.hypr_lua]
+input_path = "~/.config/matugen/templates/colors.lua"
+output_path = "~/.config/hypr/colors.lua"
+
+[templates.hypr_conf]
+input_path = "~/.config/matugen/templates/colors.conf"
+output_path = "~/.config/hypr/colors.conf"
+
+[templates.waybar]
+input_path = "~/.config/matugen/templates/colors.css"
+output_path = "~/.config/waybar/colors.css"
+
+[templates.swaync]
+input_path = "~/.config/matugen/templates/colors.css"
+output_path = "~/.config/swaync/colors.css"
+
+[templates.rofi]
+input_path = "~/.config/matugen/templates/colors.rasi"
+output_path = "~/.config/rofi/colors.rasi"
+
+[templates.alacritty]
+input_path = "~/.config/matugen/templates/alacritty.toml"
+output_path = "~/.config/alacritty/colors.toml"

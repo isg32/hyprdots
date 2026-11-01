@@ -1,0 +1,190 @@
+@import "colors.css";
+/* Android 17 / Material 3 Expressive: big radii, tonal surfaces, chunky controls */
+* { font-family: "Inter", "JetBrainsMono Nerd Font"; font-size: 14px; }
+
+.control-center {
+  background: alpha(@surface, 0.98);
+  border: 1px solid alpha(@primary, 0.3);
+  border-radius: 32px;
+  padding: 0;
+  color: @on_surface;
+}
+/* padding lives on the inner box: padding on the scrolled window itself makes the whole panel scroll */
+.control-center .widgets { padding: 12px; }
+.control-center .widget-title { margin: 0 0 8px 0; padding: 10px 14px 4px 18px; min-height: 60px; }
+.widget-title label { font-size: 20px; font-weight: 800; color: @on_surface; }
+.widget-title button {
+  background: alpha(@primary, 0.22); color: @on_surface;
+  border-radius: 999px; padding: 6px 16px; margin: 0; border: none; font-weight: 700;
+}
+.widget-title button:hover { background: alpha(@primary, 0.38); }
+.control-center-list { background: transparent; min-height: 160px; }
+.control-center-list-placeholder { opacity: 0.55; font-size: 16px; }
+
+/* ---- notification cards: tonal, 24px radius, same padding on every side ---- */
+.notification-row { outline: none; padding: 0; margin: 0; }
+.notification-row .notification-background { padding: 4px 0; margin: 0; background: transparent; }
+.floating-notifications .notification-row .notification-background { padding: 0 6px; }
+.notification-row:focus .notification, .notification-row:hover .notification { background: alpha(@primary, 0.2); }
+.notification, .floating-notifications .notification {
+  background: alpha(@primary, 0.14);
+  border: none;
+  border-radius: 24px;
+  margin: 4px 0; padding: 0;
+  color: @on_surface;
+}
+.floating-notifications .notification { background: @surface; border: 1px solid alpha(@primary, 0.35); margin: 2px 14px; }
+.notification-content { padding: 14px; margin: 0; }
+.notification .summary { font-weight: 700; font-size: 15px; }
+.notification .body { opacity: 0.85; }
+.notification .time { opacity: 0.6; font-size: 12px; margin-right: 6px; }
+.notification .app-icon, .notification .image { border-radius: 14px; margin-right: 12px; }
+.close-button {
+  background: alpha(@on_surface, 0.14); color: @on_surface;
+  border-radius: 999px; margin: 10px; padding: 0; min-width: 26px; min-height: 26px;
+}
+.close-button:hover { background: @error; color: @surface; }
+.notification-action {
+  background: alpha(@primary, 0.24); color: @on_surface;
+  border-radius: 999px; margin: 0 8px 10px 8px; padding: 6px 14px; border: none;
+}
+.notification-action:hover { background: alpha(@primary, 0.42); }
+.critical .notification { background: alpha(@error, 0.22); }
+
+.notification-group-headers { margin: 6px 4px 0 4px; }
+.notification-group-icon, .notification-group-header { color: @primary; font-weight: 700; }
+.notification-group-collapse-button, .notification-group-close-all-button {
+  background: alpha(@on_surface, 0.14); border-radius: 999px; color: @on_surface;
+}
+
+/* ---- quick settings: big rounded tonal tiles ---- */
+.widget-buttons-grid { background: transparent; margin: 8px 7px 0 7px; padding: 0; }
+.widget-buttons-grid > flowbox > flowboxchild > button {
+  background: alpha(@primary, 0.16); color: @on_surface; border: none;
+  border-radius: 28px; min-height: 60px; min-width: 215px;
+  margin: 4px; padding: 6px 18px; font-weight: 700; font-size: 15px;
+}
+.widget-buttons-grid > flowbox > flowboxchild > button:hover { background: alpha(@primary, 0.28); }
+.widget-buttons-grid > flowbox > flowboxchild > button:checked {
+  background: @primary; color: @surface; border-radius: 20px;
+}
+
+/* ---- sliders: thick pills with a bar thumb ---- */
+.widget-volume, .widget-backlight {
+  background: alpha(@primary, 0.14); border-radius: 28px;
+  margin: 4px 11px; padding: 14px 20px; color: @on_surface;
+}
+.widget-volume trough, .widget-backlight trough {
+  background: alpha(@on_surface, 0.2); border-radius: 999px; min-height: 22px;
+}
+.widget-volume highlight, .widget-backlight highlight { background: @lime; border-radius: 999px; }
+.widget-volume slider, .widget-backlight slider {
+  background: @on_surface; border-radius: 999px; min-width: 6px; min-height: 40px; margin: -9px 0;
+}
+.widget-mpris-player { background: alpha(@on_surface, 0.1); border-radius: 24px; padding: 12px; }
+
+
+/* ---- plain history panel: uniform flat cards, no overlap ---- */
+.control-center .notification-row .notification-background { padding: 3px 0; background: transparent; }
+.control-center .notification { background: alpha(@primary, 0.12); border: none; border-radius: 16px; margin: 0; box-shadow: none; }
+.control-center .notification-row:hover .notification, .control-center .notification-row:focus .notification { background: alpha(@primary, 0.2); }
+.control-center .notification-content { padding: 12px 14px; }
+.control-center .notification .time { font-size: 12px; opacity: 0.55; }
+.control-center .critical .notification { background: alpha(@error, 0.2); }
+.control-center-list row, .control-center-list row:focus, .control-center-list row:hover, .control-center .notification-row, .control-center .notification-row:focus { background: transparent; box-shadow: none; outline: none; }
+
+/* ---- subtle scroll indicator (list only) ---- */
+.control-center scrollbar { background: transparent; border: none; margin: 4px 2px; opacity: 0.55; }
+.control-center scrollbar trough { background: transparent; border: none; min-width: 3px; }
+.control-center scrollbar slider {
+  min-width: 3px; min-height: 36px; border-radius: 999px; border: none;
+  background: alpha(@on_surface, 0.16);
+}
+.control-center scrollbar slider:hover, .control-center scrollbar slider:active { background: alpha(@on_surface, 0.32); }
+
+/* only the notification list gets a scroll indicator; the panel itself (title, Clear all) never scrolls */
+.control-center scrollbar { opacity: 0; min-width: 0; }
+.control-center scrolledwindow scrolledwindow scrollbar { opacity: 0.55; min-width: 3px; }
+
+/* kill the panel-wide scroll indicator in every state; keep only the list's own thin one */
+scrollbar, scrollbar.vertical, scrollbar.overlay-indicator, scrollbar.hovering, scrollbar:hover, scrollbar:active {
+  opacity: 0; min-width: 0; min-height: 0; margin: 0; padding: 0; border: none; background: transparent;
+}
+scrollbar slider, scrollbar trough, scrollbar.hovering slider, scrollbar:hover slider {
+  min-width: 0; min-height: 0; margin: 0; padding: 0; border: none; background: transparent; opacity: 0;
+}
+.control-center scrolledwindow scrolledwindow scrollbar,
+.control-center scrolledwindow scrolledwindow scrollbar.hovering,
+.control-center scrolledwindow scrolledwindow scrollbar:hover {
+  opacity: 0.5; min-width: 3px; margin: 4px 2px;
+}
+.control-center scrolledwindow scrolledwindow scrollbar slider,
+.control-center scrolledwindow scrolledwindow scrollbar.hovering slider {
+  opacity: 1; min-width: 3px; min-height: 36px; border-radius: 999px; background: alpha(@on_surface, 0.2);
+}
+
+/* final: list-only, faint scroll indicator */
+.control-center scrolledwindow scrollbar { opacity: 0.45; min-width: 3px; margin: 2px; }
+.control-center scrolledwindow scrollbar slider { min-width: 3px; border-radius: 999px; background: alpha(@on_surface, 0.22); }
+
+/* pop-ups: put the close button inside the card's top-right corner (card is inset 20px from the window edge) */
+.floating-notifications .close-button { margin: 10px 28px 0 0; min-width: 22px; min-height: 22px; background: alpha(@on_surface, 0.16); }
+
+/* no hover/focus effects on cards — only the close button reacts */
+.notification-row, .notification-row:hover, .notification-row:focus, .notification-row:active,
+.notification-row .notification-background, .notification-row:hover .notification-background, .notification-row:focus .notification-background {
+  background: transparent; box-shadow: none; outline: none; transition: none;
+}
+.floating-notifications .notification,
+.floating-notifications .notification-row:hover .notification,
+.floating-notifications .notification-row:focus .notification,
+.floating-notifications .notification-row:active .notification,
+.floating-notifications .notification:hover, .floating-notifications .notification:focus {
+  background: @surface; border-color: alpha(@primary, 0.35); box-shadow: none; transition: none;
+}
+.control-center .notification,
+.control-center .notification-row:hover .notification,
+.control-center .notification-row:focus .notification,
+.control-center .notification-row:active .notification,
+.control-center .notification:hover, .control-center .notification:focus {
+  background: alpha(@primary, 0.12); box-shadow: none; transition: none;
+}
+.control-center .critical .notification, .control-center .notification-row:hover .critical .notification { background: alpha(@error, 0.2); }
+
+/* neutralise swaync's built-in hover/focus colours (they live on the card's inner default-action) */
+:root { --noti-bg-hover: transparent; --noti-bg-focus: transparent; --noti-bg-hover-opaque: transparent; }
+@define-color noti-bg-hover transparent;
+@define-color noti-bg-hover-opaque transparent;
+@define-color noti-bg-focus transparent;
+.notification-row .notification-background .notification .notification-default-action,
+.notification-row .notification-background .notification .notification-default-action:hover,
+.notification-row .notification-background .notification .notification-default-action:focus,
+.notification-row .notification-background .notification .notification-default-action:active,
+.control-center .control-center-list .notification .notification-default-action:hover,
+.control-center .control-center-list .notification .notification-action:hover:not(.notification-action-btn) {
+  background: transparent; background-color: transparent; box-shadow: none; transition: none;
+}
+.notification-row:focus, .notification-group:focus { background: transparent; }
+
+
+/* ---- dismiss zone: on hover a dark-red gradient covers the right end of the card, above its text ----
+   every card is a fixed 88px tall so the overlay (close button) matches it exactly */
+.notification-content { min-height: 72px; }
+.control-center .notification-row { padding: 3px 0; }
+.control-center .notification-row .notification-background { padding: 0; margin: 0; }
+.control-center .notification { margin: 0; }
+.floating-notifications .notification-row { padding: 2px 20px; }
+.floating-notifications .notification-row .notification-background { padding: 0; margin: 0; }
+.floating-notifications .notification { margin: 0; }
+.close-button, .notification .close-button, .floating-notifications .close-button, .control-center .close-button,
+.close-button:hover, .control-center .close-button:hover, .floating-notifications .close-button:hover {
+  min-width: 104px; min-height: 104px; padding: 0; margin: 0; border: none; box-shadow: none;
+  border-radius: 0 16px 16px 0;
+  color: #ffe9e6; background-color: transparent;
+  background-image: linear-gradient(to right, rgba(96,16,26,0) 0%, rgba(96,16,26,0.98) 26%, rgb(86,12,22) 100%);
+}
+.floating-notifications .close-button, .floating-notifications .close-button:hover { border-radius: 0 24px 24px 0; }
+.close-button:hover, .control-center .close-button:hover, .floating-notifications .close-button:hover {
+  color: #ffffff;
+  background-image: linear-gradient(to right, rgba(124,20,34,0) 0%, rgba(124,20,34,0.98) 26%, rgb(112,16,30) 100%);
+}

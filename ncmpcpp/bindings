@@ -1,0 +1,15 @@
+# extra bindings on top of the defaults
+def_key "v"
+  show_visualizer
+def_key "+"
+  volume_up
+def_key "-"
+  volume_down
+def_key "j"
+  scroll_down
+def_key "k"
+  scroll_up
+def_key "h"
+  previous_column
+def_key "l"
+  next_column

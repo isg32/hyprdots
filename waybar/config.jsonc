@@ -1,0 +1,52 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 38,
+  "margin-top": 8, "margin-left": 12, "margin-right": 12,
+  "spacing": 6,
+  "modules-left": ["custom/logo", "hyprland/workspaces", "hyprland/window"],
+  "modules-center": ["custom/media-prev", "custom/media-play", "custom/media-next", "custom/media", "clock"],
+  "modules-right": ["cpu", "memory", "power-profiles-daemon", "backlight", "pulseaudio", "bluetooth", "network", "battery", "custom/chargelimit", "custom/caffeine", "custom/nightlight", "custom/screenshot", "custom/power", "tray", "custom/notification"],
+
+  "custom/logo": { "format": "󰣇", "tooltip": false, "on-click": "rofi -show drun" },
+  "hyprland/workspaces": { "format": "{icon}", "format-icons": { "active": "", "default": "", "empty": "" }, "persistent-workspaces": { "*": 5 }, "on-scroll-up": "hyprctl dispatch 'hl.dsp.focus({workspace=\"e-1\"})'", "on-scroll-down": "hyprctl dispatch 'hl.dsp.focus({workspace=\"e+1\"})'" },
+  "hyprland/window": { "max-length": 40, "separate-outputs": true },
+    "clock": { "format": "{:%a %d %b  %I:%M %p}", "tooltip-format": "<tt>{calendar}</tt>" },
+  "custom/notification": {
+    "tooltip": false, "format": "{icon}", "return-type": "json", "escape": true,
+    "format-icons": {
+      "notification": "<span foreground='#a8e063'><sup>●</sup></span>", "none": "", "dnd-notification": "<span foreground='#a8e063'><sup>●</sup></span>", "dnd-none": "",
+      "inhibited-notification": "", "inhibited-none": "", "dnd-inhibited-notification": "", "dnd-inhibited-none": ""
+    },
+    "exec": "swaync-client -swb", "on-click": "swaync-client -t -sw", "on-click-right": "swaync-client -d -sw"
+  },
+  "cpu": { "format": "  {usage}%", "interval": 3 },
+  "memory": { "format": "󰍛  {percentage}%", "interval": 5 },
+  "power-profiles-daemon": {
+    "format": "{icon}", "tooltip-format": "Profile: {profile}",
+    "format-icons": { "default": "󰾅", "performance": "󰓅", "balanced": "󰾅", "power-saver": "󰌪" }
+  },
+  "backlight": { "format": "{icon}  {percent}%", "format-icons": ["󰃞", "󰃟", "󰃠"], "on-scroll-up": "brightnessctl set 5%+", "on-scroll-down": "brightnessctl set 5%-" },
+  "pulseaudio": { "format": "{icon}  {volume}%", "format-muted": "󰝟", "format-icons": { "default": ["󰕿", "󰖀", "󰕾"] }, "on-click": "pavucontrol" },
+  "bluetooth": { "format": "󰂯", "format-off": "󰂲", "format-connected": "󰂱  {num_connections}", "on-click": "blueman-manager" },
+  "network": { "format-wifi": "󰤨  {essid}", "format-ethernet": "󰈀", "format-disconnected": "󰤭", "on-click": "nm-connection-editor", "tooltip-format": "{ipaddr} {signalStrength}%" },
+  "battery": {
+    "states": { "warning": 25, "critical": 12 },
+    "format": "{icon}  {capacity}%",
+    "format-charging": "{icon}  {capacity}%",
+    "format-plugged": "󰚥  {capacity}%",
+    "format-full": "󰚥  {capacity}%",
+    "format-icons": { "default": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"], "charging": ["󰢜", "󰂆", "󰂇", "󰂈", "󰢝", "󰂉", "󰢞", "󰂊", "󰂋", "󰂅"] },
+    "tooltip-format": "{timeTo}\n{power}W · {health}% health"
+  },
+  "custom/chargelimit": { "exec": "~/.config/waybar/scripts/chargelimit.sh status", "return-type": "json", "interval": 15, "signal": 11, "on-click": "~/.config/waybar/scripts/chargelimit.sh toggle" },
+  "custom/caffeine": { "exec": "~/.config/waybar/scripts/caffeine.sh status", "return-type": "json", "interval": 5, "signal": 10, "on-click": "~/.config/waybar/scripts/caffeine.sh toggle" },
+  "custom/nightlight": { "exec": "~/.config/waybar/scripts/nightlight.sh status", "return-type": "json", "interval": 10, "signal": 8, "on-click": "~/.config/waybar/scripts/nightlight.sh next", "on-click-right": "~/.config/waybar/scripts/nightlight.sh off", "on-scroll-up": "~/.config/waybar/scripts/nightlight.sh up", "on-scroll-down": "~/.config/waybar/scripts/nightlight.sh down" },
+  "custom/screenshot": { "format": "󰄀", "tooltip-format": "Screenshot (right-click: color picker)", "tooltip": true, "on-click": "~/.config/hypr/scripts/screenshot.sh region", "on-click-right": "hyprpicker -a" },
+  "custom/power": { "format": "󰐥", "tooltip-format": "Power menu", "tooltip": true, "on-click": "~/.config/hypr/scripts/powermenu.sh" },
+  "custom/media-prev": { "exec": "printf '󰒮'", "exec-if": "playerctl status 2>/dev/null | grep -qE 'Playing|Paused'", "signal": 9, "interval": 2, "tooltip": false, "on-click": "~/.config/waybar/scripts/mediactl.sh previous" },
+  "custom/media-play": { "exec": "~/.config/waybar/scripts/media.sh play", "return-type": "json", "signal": 9, "interval": 1, "tooltip": false, "on-click": "~/.config/waybar/scripts/mediactl.sh play-pause" },
+  "custom/media-next": { "exec": "printf '󰒭'", "exec-if": "playerctl status 2>/dev/null | grep -qE 'Playing|Paused'", "signal": 9, "interval": 2, "tooltip": false, "on-click": "~/.config/waybar/scripts/mediactl.sh next" },
+  "custom/media": { "exec": "~/.config/waybar/scripts/media.sh title", "return-type": "json", "signal": 9, "interval": 1, "escape": true, "on-click": "~/.config/waybar/scripts/mediactl.sh play-pause", "on-click-right": "~/.config/waybar/scripts/mediactl.sh next", "on-click-middle": "~/.config/waybar/scripts/mediactl.sh previous", "on-scroll-up": "playerctl volume 0.05+", "on-scroll-down": "playerctl volume 0.05-" },
+  "tray": { "spacing": 8 }
+}

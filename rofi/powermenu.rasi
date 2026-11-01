@@ -1,0 +1,4 @@
+@import "config.rasi"
+window { width: 380px; }
+listview { lines: 6; }
+inputbar { enabled: false; }

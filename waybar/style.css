@@ -1,0 +1,51 @@
+@import "colors.css";
+* { font-family: "Inter", "JetBrainsMono Nerd Font"; font-size: 13px; border: none; min-height: 0; }
+window#waybar { background: transparent; }
+.modules-left, .modules-center, .modules-right {
+  background: alpha(@surface, 0.55);
+  border: 1px solid alpha(@outline, 0.5);
+  border-radius: 19px; padding: 0 8px;
+}
+#workspaces button { padding: 0 5px; color: alpha(@on_surface, 0.5); background: transparent; border-radius: 12px; }
+#workspaces button.active { color: @lime; }
+#workspaces button:hover { background: alpha(@primary, 0.15); }
+#window { color: alpha(@on_surface, 0.7); }
+#custom-logo { color: @primary; font-size: 18px; padding: 0 8px; }
+#clock, #custom-media, #custom-media-prev, #custom-media-play, #custom-media-next, #custom-notification, #custom-chargelimit, #custom-caffeine, #custom-nightlight, #custom-screenshot, #custom-power, #mpris, #cpu, #memory, #power-profiles-daemon, #backlight,
+#pulseaudio, #bluetooth, #network, #battery, #tray { color: @on_surface; padding: 0 10px; }
+#battery.charging, #battery.plugged, #battery.full { color: @lime; }
+#battery.warning:not(.charging) { color: #f9e2af; }
+#battery.critical:not(.charging) { color: @error; }
+#power-profiles-daemon.performance { color: @error; }
+#power-profiles-daemon.power-saver { color: #a6e3a1; }
+tooltip, tooltip.background, tooltip decoration, tooltip box { background: transparent; border: none; box-shadow: none; padding: 0; margin: 0; }
+tooltip label {
+  color: @on_surface;
+  font-family: "Inter", "JetBrainsMono Nerd Font";
+  font-size: 13px;
+  background: alpha(@surface, 0.96);
+  border: 1px solid alpha(@primary, 0.35);
+  border-radius: 14px;
+  padding: 7px 12px;
+}
+
+#custom-nightlight.level-1 { color: #ffd98a; }
+#custom-nightlight.level-2 { color: #ffc065; }
+#custom-nightlight.level-3 { color: #ffa040; }
+#custom-nightlight.level-4 { color: #ff7f2a; }
+#custom-nightlight.off { opacity: 0.6; }
+#custom-power:hover, #custom-screenshot:hover, #custom-nightlight:hover { color: @lime; }
+
+#custom-media-prev, #custom-media-next { padding: 0 4px; font-size: 16px; }
+#custom-media-play { padding: 0 6px; font-size: 18px; color: @lime; }
+#custom-media.paused, #custom-media-play.paused { opacity: 0.55; }
+#custom-media { color: @on_surface; padding: 0 10px 0 6px; }
+#custom-media-prev:hover, #custom-media-next:hover, #custom-media-play:hover { color: @lime; }
+
+#custom-caffeine.on { color: #ffc065; }
+#custom-caffeine.off { opacity: 0.6; }
+#custom-caffeine:hover { color: @lime; }
+
+#custom-chargelimit.on { color: @lime; }
+#custom-chargelimit.off { opacity: 0.55; }
+#custom-chargelimit:hover { color: @lime; opacity: 1; }

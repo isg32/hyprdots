@@ -1,0 +1,65 @@
+# ncmpcpp 0.10 — config
+ncmpcpp_directory = ~/.config/ncmpcpp
+lyrics_directory  = ~/.local/share/lyrics
+mpd_host          = 127.0.0.1
+mpd_port          = 6600
+mpd_music_dir     = ~/Music
+
+# ---------------- look & feel ----------------
+user_interface            = alternative
+colors_enabled            = yes
+main_window_color         = default
+header_window_color       = 216
+volume_color              = 216
+state_line_color          = 241
+state_flags_color         = 216
+progressbar_color         = 239
+progressbar_elapsed_color = 216
+statusbar_color           = default
+statusbar_time_color      = 216
+progressbar_look          = ━╸━
+header_visibility         = yes
+statusbar_visibility      = yes
+titles_visibility         = yes
+mouse_support             = yes
+centered_cursor           = yes
+cyclic_scrolling          = yes
+autocenter_mode           = yes
+ignore_leading_the        = yes
+display_bitrate           = yes
+allow_for_physical_item_deletion = no
+playlist_display_mode     = columns
+browser_display_mode      = columns
+search_engine_display_mode= columns
+song_columns_list_format  = (5f)[241]{n} (28)[white]{t|f:Title} (22)[216]{a} (24)[]{b} (7f)[241]{l}
+song_list_format          = {$7%a - $9}{$5%t$9}|{$5%f$9}$R{$6%b $9}{$7%l$9}
+song_status_format        = {{%a{ "%b"{ (%y)}} - }{%t}}|{%f}
+now_playing_prefix        = $b$5
+now_playing_suffix        = $/b$9
+selected_item_prefix      = $6
+selected_item_suffix      = $9
+current_item_prefix       = $(216)$r
+current_item_suffix       = $/r$(end)
+startup_screen            = playlist
+jump_to_now_playing_song_at_start = yes
+playlist_show_remaining_time = yes
+playlist_shorten_total_times = yes
+
+# ---------------- visualizer ----------------
+visualizer_data_source    = /tmp/mpd.fifo
+visualizer_output_name    = Visualizer
+visualizer_in_stereo      = yes
+visualizer_type           = spectrum
+visualizer_fps            = 60
+visualizer_autoscale      = yes
+visualizer_look           = ●▮
+# warm gradient: deep orange -> orange -> peach -> pale gold (matches the wallpaper palette)
+visualizer_color          = 131, 167, 173, 209, 210, 216, 217, 223, 224, 230
+visualizer_spectrum_smooth_look        = yes
+visualizer_spectrum_smooth_look_legacy_chars = yes
+visualizer_spectrum_dft_size           = 3
+visualizer_spectrum_gain               = 10
+visualizer_spectrum_hz_min             = 30
+visualizer_spectrum_hz_max             = 16000
+visualizer_spectrum_log_scale_x        = yes
+visualizer_spectrum_log_scale_y        = yes

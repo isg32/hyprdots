@@ -1,0 +1,20 @@
+# whitelist: only the rice, nothing else in ~/.config
+/*
+!/.gitignore
+!/README.md
+!/hypr/
+!/waybar/
+!/rofi/
+!/swaync/
+!/matugen/
+!/alacritty/
+!/fastfetch/
+!/mpd/
+!/ncmpcpp/
+!/xdg-desktop-portal/
+__pycache__/
+*.pyc
+/mpd/database
+/mpd/state
+/mpd/sticker.sql
+/mpd/playlists/

@@ -1,0 +1,12 @@
+* {
+  primary: #ffb59a;
+  surface: #1a110e;
+  on-surface: #f1dfd9;
+  outline: #a08d86;
+  lime: #a8e063;
+  surface-a: #1a110eb8;
+  surface-strip: #1a110e8c;
+  primary-a: #ffb59a3d;
+  primary-b: #ffb59a47;
+  tint: #f1dfd910;
+}

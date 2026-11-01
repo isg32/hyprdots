@@ -1,0 +1,23 @@
+@import "colors.rasi"
+configuration {
+  modi: "drun,run,window,emoji,calc";
+  show-icons: true;
+  icon-theme: "Papirus-Dark";
+  font: "Inter 12";
+  drun-display-format: "{name}";
+  display-drun: "  Apps";
+  display-window: "  Windows";
+}
+* { background-color: transparent; text-color: @on-surface; }
+window {
+  width: 620px; border-radius: 22px; border: 1px; border-color: @outline;
+  background-color: @surface-a; padding: 16px;
+}
+mainbox { spacing: 12px; }
+inputbar { background-color: @tint; border-radius: 14px; padding: 12px 16px; spacing: 10px; children: [prompt, entry]; }
+prompt { text-color: @primary; }
+listview { lines: 8; columns: 1; spacing: 4px; fixed-height: true; scrollbar: false; }
+element { padding: 10px 14px; border-radius: 12px; spacing: 12px; }
+element normal.normal, element alternate.normal, element normal.active, element alternate.active, element normal.urgent, element alternate.urgent { background-color: transparent; text-color: @on-surface; }
+element selected.normal { background-color: @primary-a; text-color: @on-surface; border: 0 0 0 3px; border-color: @lime; }
+element-icon { size: 28px; }

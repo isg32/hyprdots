@@ -1,0 +1,12 @@
+* {
+  primary: {{colors.primary.default.hex}};
+  surface: {{colors.surface.default.hex}};
+  on-surface: {{colors.on_surface.default.hex}};
+  outline: {{colors.outline.default.hex}};
+  lime: #a8e063;
+  surface-a: {{colors.surface.default.hex}}b8;
+  surface-strip: {{colors.surface.default.hex}}8c;
+  primary-a: {{colors.primary.default.hex}}3d;
+  primary-b: {{colors.primary.default.hex}}47;
+  tint: {{colors.on_surface.default.hex}}10;
+}

@@ -1,0 +1,18 @@
+@import "colors.rasi"
+configuration { scroll-method: 1; }
+* { background-color: transparent; text-color: @on-surface; }
+window {
+  location: south; anchor: south; width: 100%; y-offset: 0;
+  background-color: @surface-strip; padding: 20px 30px 30px 30px;
+  border: 1px 0 0 0; border-color: @outline;
+}
+mainbox { children: [listview]; }
+inputbar { enabled: false; }
+listview {
+  layout: horizontal; lines: 5; columns: 1; spacing: 20px;
+  fixed-height: true; scrollbar: false; cycle: false; scroll-method: 1; reverse: false;
+}
+element { orientation: vertical; padding: 10px; border-radius: 18px; spacing: 8px; }
+element selected.normal { background-color: @primary-b; border: 2px; border-color: @lime; }
+element-icon { size: 220px; horizontal-align: 0.5; }
+element-text { horizontal-align: 0.5; font: "Inter 11"; }
